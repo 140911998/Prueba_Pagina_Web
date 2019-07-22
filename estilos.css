@@ -1,0 +1,42 @@
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: red;
+   color: white;
+   text-align: center;
+}
+.navbar{
+  background-color: #3a4b75;
+
+}
+a {
+  color: white;
+}
+
+.logo{
+  width: 67%;
+}
+.carta_fila{
+  margin-left: 21%;
+}
+#divs_carta{
+
+    text-align: center;
+}
+.color_footer{
+  background-color: #007bff;
+}
+.color_letra_footer{
+color: white;
+}
+.color_footer2{
+  background-color: #1076BB;
+}
+#color_letra_footer{
+  color: white;
+}
+.imagen_bodegas{
+  width: 93%;
+}
